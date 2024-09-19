@@ -111,7 +111,7 @@ Occlusion: Validated by rasterizing SVG files and checking the correctness of th
 
 ## Getting Started
 Clone this repository:
-git clone https://github.com/username/Curvetopia.git
+git clone (https://github.com/Harshsinghr/Curvetopia-Adobe-GenSolve-Round22.git)
 Install the necessary Python packages:
 pip install -r requirements.txt
 Run the provided code examples to process and visualize your shapes.
