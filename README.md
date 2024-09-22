@@ -115,5 +115,29 @@ git clone (https://github.com/Harshsinghr/Curvetopia-Adobe-GenSolve-Round22.git)
 Install the necessary Python packages:
 pip install -r requirements.txt
 Run the provided code examples to process and visualize your shapes.
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any queries or to connect, feel free to reach out:
+### Team Member 1
+- Nmae: Harsh Singh
+- Email: 31608csai@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/harsh-singh27/](https://www.linkedin.com/in/harsh-singh27/)
+
+### Team Member 2
+- Nmae: Krati Itondiya
+
+### Team Member 3
+- Nmae: Shivang M
+- Email:
+- LinkedIn:
+
+I welcome any questions or discussions related to this project!
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+Thank you for visiting the Email-Span-filter repository! Happy coding!🎉
