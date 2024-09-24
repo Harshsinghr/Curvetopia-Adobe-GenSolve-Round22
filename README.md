@@ -122,15 +122,17 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For any queries or to connect, feel free to reach out:
 ### Team Member 1
-- Nmae: Harsh Singh
+- Name: Harsh Singh
 - Email: 31608csai@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/harsh-singh27/](https://www.linkedin.com/in/harsh-singh27/)
 
 ### Team Member 2
-- Nmae: Krati Itondiya
+- Name: Krati Itondiya
+- Email: 30759csaikrati@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/krati-itondia-06771722a/](https://www.linkedin.com/in/krati-itondia-06771722a/)
 
 ### Team Member 3
-- Nmae: Shivang M
+- Name: Shivang M
 - Email:
 - LinkedIn:
 
